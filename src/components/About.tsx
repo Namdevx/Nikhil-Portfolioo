@@ -70,6 +70,7 @@ function About() {
                     }
                   >
                     2022 – 2026
+                    CGPA: 6.33
                   </p>
                 </div>
 
@@ -87,7 +88,7 @@ function About() {
                       theme === "dark" ? "text-gray-400" : "text-slate-600"
                     }
                   >
-                    CGPA: 6.33
+                    
                   </p>
                   <p
                     className={
